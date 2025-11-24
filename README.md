@@ -38,8 +38,7 @@ Level F - 兴趣频道
 | E | https://www.youtube.com/@SMii7Y/videos | 美音-男  | 游戏连麦 | 高阶 | 多人聊天、高效、调侃 |
 | E | https://www.youtube.com/@TheDiaryOfACEO | 美音-男 英音-男 | 播客访谈 | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 |
 | E | https://www.youtube.com/@MindTheGamePodcast | 美音-男 | 篮球 | 高阶 | 勒布朗·詹姆斯的播客频道 |
-| E | https://www.youtube.com/@SteveTVShow/featured | 美音-男 | 脱口秀访谈 | 高阶 | 一个美国黑人主持人的脱口秀采访频道，非常适合用来熟悉黑人口音话题是非常日常生活的话题，比如“有个男的分手了还追着我谈结婚，但我们三观完全不合，怎么办？” 非常搞笑，金句频出。
-推荐 |
+| E | https://www.youtube.com/@SteveTVShow/featured | 美音-男 | 脱口秀访谈 | 高阶 | 一个美国黑人主持人的脱口秀采访频道，非常适合用来熟悉黑人口音话题是非常日常生活的话题，比如“有个男的分手了还追着我谈结婚，但我们三观完全不合，怎么办？” 非常搞笑，金句频出。 |
 | E | https://www.youtube.com/@thebalancetheorypodcast | 美音-女 | 播客访谈 | 高阶 | 个人成长访谈播客频道频道的核心话题话题之一是：如何建立自信主持人以及嘉宾都是女性。如果要寻找女生发音模仿对象，这个挺适合的。 |
 | F | https://www.youtube.com/@TinyHomeTours/videos | 美音-男,女 | 小户型设计 | 中阶 | 小户型设计 |
 | F | https://www.youtube.com/@Doobydobap | 美音-女 | 食物、旅行 | 中阶 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 |
