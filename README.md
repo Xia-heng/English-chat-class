@@ -8,8 +8,9 @@ Level D - Vlog
 Level E - 超多对话频道  
 Level F - 兴趣频道  
 
-| 类型  | 列2  | 列3  | 列4  | 列5  | 列6  |
+| 类型  | YouTuBe频道链接  | 发音类型  | 主题  | 等级  | Note  |
+
 |------|------|------|------|------|------|
 | A    | https://www.youtube.com/@VolkaEnglish   | ✔️   |
-| B    | https://www.youtube.com/@englishbyjay.official    | ❌   |
-| C    | https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos    | ✔️   |
+| A    | https://www.youtube.com/@englishbyjay.official    | ❌   |
+| A    | https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos    | ✔️   |
