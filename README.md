@@ -19,3 +19,16 @@ Level F - 兴趣频道
 | A | https://www.youtube.com/@BoSlowEnglish |  美音-女 | 旅行 生活  | 初阶 0基础  | 慢速英文频道有一个类似可理解性输入的室外Vlog系列还不错。适合入门初阶通过慢速英文适应英文节奏  |
 | B | https://www.youtube.com/@ariannitalagringa/videos |  美音-女 | 英文学习  | 初阶 |   |
 | B | https://www.youtube.com/@SpeakEnglishWithVanessa |  美音-女,男 | 英文学习  | 初阶 初中阶 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。  |
+| C | https://www.youtube.com/@EnglishwithBrittany |  美音-女,男 | 小孩家庭 英文学习  | 初中阶衔接 | 小孩的日常生活记录  |
+| C | https://www.youtube.com/@TheCrosbys/videos |  美音-女,男 | 小孩家庭 英文学习  | 初中阶衔接 | 有一个很有意思的小孩口播列表  |
+| C | https://www.youtube.com/@ColeAndSav/featured |   | 小孩家庭 英文学习  | 中阶 |   |
+| C | https://www.youtube.com/@jhousevlogs/featured |  美音-女,男 | 小孩家庭 旅行  | 中阶 | 爸妈带着一群小孩世界各地旅居  |
+| C | https://www.youtube.com/@ustheduo/featured |  美音-女,男 | 小孩家庭 | 中阶 |  |
+| C | https://www.youtube.com/@thisishowwebingham |  美音-女,男 | 小孩家庭 | 中阶 |  |
+| D | https://www.youtube.com/@ELLIOTCHOY/videos |   | 大学vlog 生活 | 中阶 | 男、已毕业要往前翻大学生活Vlog。 |
+| D | https://www.youtube.com/@petermkle | 美音-男  | 大学vlog | 中阶 | 男、医学专业 |
+| D | https://www.youtube.com/@MaxReisinger/featured | 美音-男  | 高中vlog | 中阶 | 男、美高已毕业、拍摄剪辑很棒。 |
+| D | https://www.youtube.com/@urmomashley | 美音-女  | 高中vlog | 中阶 | 女、美高 |
+| D | https://www.youtube.com/@Freddielooo | 美音-女  | 生活vlog | 中阶 | 女、生活写实记录 |
+| D | https://www.youtube.com/@Freddielooo | 美音-男  | 生活vlog | 中阶 | 女、生活写实记录 |
+
