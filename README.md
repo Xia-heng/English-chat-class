@@ -1,7 +1,7 @@
 # English-chat-class
 learning
 
-Level A - 可理解输入英文 \\
+Level A - 可理解输入英文 \n
 Level B - 生活实用英语 \\
 Level C - 小孩家庭日常 \\
 Level D - Vlog \\
